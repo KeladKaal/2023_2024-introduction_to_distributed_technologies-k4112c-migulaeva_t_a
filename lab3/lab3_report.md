@@ -41,3 +41,6 @@ Date of finished:
 
 9. Сертификат.
 <img width="644" alt="image" src="https://github.com/KeladKaal/2023_2024-introduction_to_distributed_technologies-k4112c-migulaeva_t_a/assets/64036217/12d4a024-8992-43a3-a59f-59324d9aa405">
+
+Схема
+<img width="953" alt="image" src="https://github.com/KeladKaal/2023_2024-introduction_to_distributed_technologies-k4112c-migulaeva_t_a/assets/64036217/c948f024-2ea7-4cc4-965a-d3b6e7c4a898">
