@@ -36,3 +36,6 @@ Date of finished:
 Ответы на вопросы:
 1. Мы развернули приложение для хранения секретов в кубере. Для этого развернут один деплоймент с двумя подами и 1 сервис для подключения к нему. 
 2. Токен для входа в логах пода, там же, где ключ для ансила.
+
+Схема
+<img width="900" alt="image" src="https://github.com/KeladKaal/2023_2024-introduction_to_distributed_technologies-k4112c-migulaeva_t_a/assets/64036217/da9c6f08-3f56-4150-9779-612f7efefcc2">
