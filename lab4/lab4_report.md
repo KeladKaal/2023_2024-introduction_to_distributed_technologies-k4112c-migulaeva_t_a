@@ -39,4 +39,7 @@ Date of finished:
     ![telegram-cloud-photo-size-2-5224497630623682143-y](https://github.com/KeladKaal/2023_2024-introduction_to_distributed_technologies-k4112c-migulaeva_t_a/assets/64036217/5c7a1629-83c9-40b5-99ce-cefec8fbdb32)
 
 
+Схема
+<img width="973" alt="image" src="https://github.com/KeladKaal/2023_2024-introduction_to_distributed_technologies-k4112c-migulaeva_t_a/assets/64036217/f9366f3e-9d4d-4ddb-9550-5bb495635918">
+
 
