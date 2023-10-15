@@ -35,4 +35,7 @@ Date of finished:
 7. Вот логи
 <img width="583" alt="image" src="https://github.com/KeladKaal/2023_2024-introduction_to_distributed_technologies-k4112c-migulaeva_t_a/assets/64036217/6c42c1aa-de29-4a4d-8770-f64dd308137a">
 
+Схема
+<img width="934" alt="image" src="https://github.com/KeladKaal/2023_2024-introduction_to_distributed_technologies-k4112c-migulaeva_t_a/assets/64036217/16d6a85f-75e6-4a48-a5ab-ba7087639498">
+
 
